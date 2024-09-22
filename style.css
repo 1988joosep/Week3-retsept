@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&family=Sofadi+One&display=swap');
+body {
+    background-color: aquamarine;
+}
+.heading {
+    text-align: center;
+}
+.lasanje-heading {
+    color: brown;
+    font-family: "Sofadi One", system-ui;
+    font-size: 3rem;
+
+}
+.hr {
+    height: 2px; color: blue;
+}
+.koostisosad {
+    color: rgb(243, 8, 8);
+    font-family: "Sofadi One", system-ui;
+    border: 2px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+.koostisosade-tabel {
+    margin: 0 auto;
+    padding: 20px;
+}
+.valmistamine {
+    color: rgb(243, 8, 8);
+    font-family: "Sofadi One", system-ui;
+    border: 2px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.img{
+    width: 623px;
+}
+.footer {
+    text-align: center;
+    font-family: "Signika", sans-serif;
+    font-size: 1rem;
+    color: darkblue;
+
+}
